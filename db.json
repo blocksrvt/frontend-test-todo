@@ -1,0 +1,22 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "nome": "Arrumar a Casa",
+      "done": false,
+      "createdAt": 1712761572
+    },
+    {
+      "id": "2",
+      "nome": "Fazer Compras",
+      "done": false,
+      "createdAt": 1712847972
+    },
+    {
+      "id": "3",
+      "nome": "Pagar Contas",
+      "done": false,
+      "createdAt": 1712934372
+    }
+  ]
+}
