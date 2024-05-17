@@ -32,7 +32,7 @@ DELETE http://\*:3000/tarefas/{id}
 
 PUT http://\*:3000/tarefas/{id}
 
-PATCH http://\*:3000/tarefas
+PATCH http://\*:3000/tarefas/{id}
 
 #### ➡️ Body de uma tarefa para [POST/PUT]:
 
